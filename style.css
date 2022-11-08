@@ -1,0 +1,15 @@
+.carousel-inner, .carousel-item {
+  height: 100vh;
+}
+
+.carousel-item img {
+  height: 100%;
+  object-fit: cover;
+}
+.spod {
+background-color: #eff2f5;
+}
+
+.stopka {
+background-color: #d0dbe1;
+}
